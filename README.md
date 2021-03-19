@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Birendra Singh (@13cse169)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Artificial Intelligence
+- 👋 Hi, I’m Birendra Singh,
+- 👀 I’m interested in learning new technology skills.
+- 🌱 I’m currently learning Artificial Intelligence in python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at 13cse169@gmail.com
 
